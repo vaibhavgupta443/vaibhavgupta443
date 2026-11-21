@@ -80,7 +80,6 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
 
 - **Measure first.** On a memory-starved laptop the bottleneck turned out to be RAM, not the GPU ([write-up](https://github.com/vaibhavgupta443/lowvram-diffusion-lab/blob/main/docs/01-where-the-time-goes.md)).
 - **Facts from code, language from models.** In quorum and ChangeLens the model never decides what is true; code does.
-- **Say what is verified and what is not.** Limits are written next to the results.
 
 </details>
 
