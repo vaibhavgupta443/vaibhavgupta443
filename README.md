@@ -60,12 +60,12 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
 
 <br/>
 
-| Project | What it shows |
-|---|---|
-| **[changelens](https://github.com/vaibhavgupta443/changelens)** | A Java and Spring Boot project and a **GitHub Action**: it reads a pull request with a real Java parser and tells the reviewer what changed at package, class and method level, what behaviour is new, and which endpoints run through the change. Measured on a labelled evaluation set, with the limits written down. |
-| **[syncup](https://github.com/vaibhavgupta443/syncup)** | Full-stack activity and social-matching platform: Spring Boot 3, MySQL, JWT, React. |
-| **[quorum](https://github.com/vaibhavgupta443/quorum)** | An agent that turns meeting transcripts into verified tasks and calendar events. The model records *what was said*; plain code replays it, so the result is deterministic and testable. Human approval step, evals. |
-| **[lowvram-diffusion-lab](https://github.com/vaibhavgupta443/lowvram-diffusion-lab)** | **Research.** Notes, measurements and ComfyUI nodes from running current image models on a 4 GB GPU with 7.4 GB of RAM: quantisation, pruning, caching, two bug fixes. |
+| Project | Stack | What it shows | Where to see it |
+|---|---|---|---|
+| **[changelens](https://github.com/vaibhavgupta443/changelens)** | Java 21, Spring Boot, JavaParser, JGit, Maven, GitHub Actions; Python (experimental AI service) | Reads a pull request with a real Java parser and tells the reviewer what changed at package, class and method level, what behaviour is new, and which endpoints run through the change. Measured on a labelled evaluation set, with the limits written down. | [Live PR comment](https://github.com/vaibhavgupta443/changelens/pull/1) · [Releases](https://github.com/vaibhavgupta443/changelens/releases) · use it: `uses: vaibhavgupta443/changelens@v0.1.2` |
+| **[quorum](https://github.com/vaibhavgupta443/quorum)** | Python, FastAPI, MCP, Google Calendar API, pytest | An agent that turns meeting transcripts into verified tasks and calendar events. The model records *what was said*; plain code replays it, so the result is deterministic and testable. Human approval step, evals. | Runs locally (setup in the README) |
+| **[syncup](https://github.com/vaibhavgupta443/syncup)** | Java, Spring Boot 3, MySQL, JWT; React 19, Vite; Docker | Full-stack activity and social-matching platform. | [Live app](https://syncup-eta.vercel.app) |
+| **[lowvram-diffusion-lab](https://github.com/vaibhavgupta443/lowvram-diffusion-lab)** | Python, PyTorch, ComfyUI nodes | **Research.** Notes, measurements and ComfyUI nodes from running current image models on a 4 GB GPU with 7.4 GB of RAM: quantisation, pruning, caching, two bug fixes. | [Write-ups](https://github.com/vaibhavgupta443/lowvram-diffusion-lab/tree/main/docs) |
 
 </details>
 
