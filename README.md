@@ -36,32 +36,20 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/vaibhavgupta443/redzone-ecommerce">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=redzone-ecommerce&theme=tokyonight&hide_border=true" alt="redzone-ecommerce" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/vaibhavgupta443/auth-portal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=auth-portal&theme=tokyonight&hide_border=true" alt="auth-portal" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vaibhavgupta443/syncup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=syncup&theme=tokyonight&hide_border=true" alt="syncup" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/vaibhavgupta443/quorum">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=quorum&theme=tokyonight&hide_border=true" alt="quorum" />
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/vaibhavgupta443/local-diffusion-4gb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=local-diffusion-4gb&theme=tokyonight&hide_border=true" alt="local-diffusion-4gb" />
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/vaibhavgupta443/syncup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=syncup&theme=tokyonight&hide_border=true" alt="syncup" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/vaibhavgupta443/lowvram-diffusion-lab">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=lowvram-diffusion-lab&theme=tokyonight&hide_border=true" alt="lowvram-diffusion-lab" />
       </a>
     </td>
   </tr>
@@ -75,11 +63,9 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
 | Project | What it shows |
 |---|---|
 | **[changelens](https://github.com/vaibhavgupta443/changelens)** | A Java and Spring Boot project and a **GitHub Action**: it reads a pull request with a real Java parser and tells the reviewer what changed at package, class and method level, what behaviour is new, and which endpoints run through the change. Measured on a labelled evaluation set, with the limits written down. |
-| **[redzone-ecommerce](https://github.com/vaibhavgupta443/redzone-ecommerce)** | Full-stack e-commerce: Spring Boot REST API, Spring Security with JWT and roles, JPA, validation, React frontend. |
-| **[auth-portal](https://github.com/vaibhavgupta443/auth-portal)** | Authentication system on Quarkus and PostgreSQL: BCrypt passwords, email verification with expiring tokens, JWT, React frontend. |
 | **[syncup](https://github.com/vaibhavgupta443/syncup)** | Full-stack activity and social-matching platform: Spring Boot 3, MySQL, JWT, React. |
 | **[quorum](https://github.com/vaibhavgupta443/quorum)** | An agent that turns meeting transcripts into verified tasks and calendar events. The model records *what was said*; plain code replays it, so the result is deterministic and testable. Human approval step, evals. |
-| **[local-diffusion-4gb](https://github.com/vaibhavgupta443/local-diffusion-4gb)** | Notes, measurements and ComfyUI nodes from running current image models on a 4 GB GPU with 7.4 GB of RAM: quantisation, pruning, caching, two bug fixes. |
+| **[lowvram-diffusion-lab](https://github.com/vaibhavgupta443/lowvram-diffusion-lab)** | **Research.** Notes, measurements and ComfyUI nodes from running current image models on a 4 GB GPU with 7.4 GB of RAM: quantisation, pruning, caching, two bug fixes. |
 
 </details>
 
@@ -101,7 +87,7 @@ An evaluation set of labelled before/after cases showed 100% on the cases the en
 
 <br/>
 
-- **Measure first.** On a memory-starved laptop the bottleneck turned out to be RAM, not the GPU ([write-up](https://github.com/vaibhavgupta443/local-diffusion-4gb/blob/main/docs/01-where-the-time-goes.md)).
+- **Measure first.** On a memory-starved laptop the bottleneck turned out to be RAM, not the GPU ([write-up](https://github.com/vaibhavgupta443/lowvram-diffusion-lab/blob/main/docs/01-where-the-time-goes.md)).
 - **Facts from code, language from models.** In quorum and ChangeLens the model never decides what is true; code does.
 - **Say what is verified and what is not.** Limits are written next to the results.
 
