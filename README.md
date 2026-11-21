@@ -74,15 +74,6 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
 ## Highlights
 
 <details>
-<summary><b>ChangeLens: measured, and honest about it</b></summary>
-
-<br/>
-
-An evaluation set of labelled before/after cases showed 100% on the cases the engine was built for. A harder second set then exposed four real bugs (renumbered local names, unreadable files reported as deleted classes, moved-and-edited methods, field initialisers). They are fixed and covered by tests, and the evaluation page lists what the numbers still do not prove. See [docs/EVALUATION.md](https://github.com/vaibhavgupta443/changelens/blob/main/docs/EVALUATION.md).
-
-</details>
-
-<details>
 <summary><b>Engineering approach</b></summary>
 
 <br/>
