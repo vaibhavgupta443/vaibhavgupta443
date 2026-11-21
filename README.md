@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Vaibhav%20Gupta&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20engineer%20%C2%B7%20LLM%20agents%20%C2%B7%20efficient%20local%20models&descSize=17&descAlignY=60" alt="Vaibhav Gupta, AI engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Vaibhav%20Gupta&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20backend%20engineering%20%C2%B7%20AI%20tooling&descSize=17&descAlignY=60" alt="Vaibhav Gupta, Java and Spring Boot developer" />
 
-<a href="https://github.com/vaibhavgupta443/clout">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=LLM+agent+systems+that+stay+reliable;Big+models+on+small+GPUs%2C+measured+honestly;Human+approval%2C+undo%2C+and+real+tests" alt="Typing animation" />
+<a href="https://github.com/vaibhavgupta443/changelens">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Java+and+Spring+Boot+backends;Static+analysis+and+developer+tooling;LLM+features+that+are+checked%2C+not+trusted" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="https://github.com/vaibhavgupta443?tab=followers"><img src="https://img.shields.io/github/followers/vaibhavgupta443?style=for-the-badge&logo=github&color=203a43" alt="followers" /></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 
 </div>
 
@@ -19,52 +20,66 @@
 
 ## About
 
-I build **LLM agent systems** and make **large models run on small hardware**. What I care about is the engineering that makes AI features trustworthy: validation, human approval, undo, tests, and measurements I can defend.
+I am a Java developer. I build backend services with **Spring Boot** (REST, JPA, Spring Security with JWT), and I like developer tooling: tools that read code and make engineers' work clearer. I also build features around LLMs, with the rule that model output is validated and checkable, never simply trusted.
 
-**Quick links:** [Projects](#projects) · [Highlights](#highlights) · [How I work](#how-i-work) · [Tech](#tech)
+**Quick links:** [Featured](#featured-projects) · [Highlights](#highlights) · [Tech](#tech)
 
 ---
 
-## Projects
+## Featured projects
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/vaibhavgupta443/quorum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=quorum&theme=tokyonight&hide_border=true" alt="quorum" />
+      <a href="https://github.com/vaibhavgupta443/changelens">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=changelens&theme=tokyonight&hide_border=true" alt="changelens" />
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/vaibhavgupta443/clout">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=clout&theme=tokyonight&hide_border=true" alt="clout" />
+      <a href="https://github.com/vaibhavgupta443/redzone-ecommerce">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=redzone-ecommerce&theme=tokyonight&hide_border=true" alt="redzone-ecommerce" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/vaibhavgupta443/local-diffusion-4gb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=local-diffusion-4gb&theme=tokyonight&hide_border=true" alt="local-diffusion-4gb" />
+      <a href="https://github.com/vaibhavgupta443/auth-portal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=auth-portal&theme=tokyonight&hide_border=true" alt="auth-portal" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/vaibhavgupta443/changelens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=changelens&theme=tokyonight&hide_border=true" alt="changelens" />
+      <a href="https://github.com/vaibhavgupta443/syncup">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=syncup&theme=tokyonight&hide_border=true" alt="syncup" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vaibhavgupta443/quorum">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=quorum&theme=tokyonight&hide_border=true" alt="quorum" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/vaibhavgupta443/local-diffusion-4gb">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=local-diffusion-4gb&theme=tokyonight&hide_border=true" alt="local-diffusion-4gb" />
       </a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>What each one demonstrates</b> (click to expand)</summary>
+<summary><b>What each one shows</b> (click to expand)</summary>
 
 <br/>
 
 | Project | What it shows |
 |---|---|
-| **[quorum](https://github.com/vaibhavgupta443/quorum)** | An agent that turns meeting transcripts into verified tasks and calendar events. The model records *what was said*; plain code replays it, so the final plan is deterministic and testable. MCP server, a human approval step, evals. |
-| **[clout](https://github.com/vaibhavgupta443/clout)** | A social-media life simulation with LLM-backed characters: memory and reflection, a Director that only *proposes* until you approve, exact undo, a live SillyTavern bridge, hybrid retrieval. About 30k lines of JavaScript and 100+ test files, built with a documented Claude Code multi-agent workflow. |
-| **[local-diffusion-4gb](https://github.com/vaibhavgupta443/local-diffusion-4gb)** | Getting current image models to run in 8-30 s on a 4 GB GPU with 7.4 GB RAM: custom quantisation, pruning a text encoder, a bit-identical prompt cache, and fixes for a VAE quality bug and a CUDA crash. Measured, with the dead ends written down. |
-| **[changelens](https://github.com/vaibhavgupta443/changelens)** | An AI assistant for pull-request review (React, Spring Boot, FastAPI). Early stage: the three-service skeleton runs and review logic is next. The README states exactly what is and is not built. |
+| **[changelens](https://github.com/vaibhavgupta443/changelens)** | A Java and Spring Boot project and a **GitHub Action**: it reads a pull request with a real Java parser and tells the reviewer what changed at package, class and method level, what behaviour is new, and which endpoints run through the change. Measured on a labelled evaluation set, with the limits written down. |
+| **[redzone-ecommerce](https://github.com/vaibhavgupta443/redzone-ecommerce)** | Full-stack e-commerce: Spring Boot REST API, Spring Security with JWT and roles, JPA, validation, React frontend. |
+| **[auth-portal](https://github.com/vaibhavgupta443/auth-portal)** | Authentication system on Quarkus and PostgreSQL: BCrypt passwords, email verification with expiring tokens, JWT, React frontend. |
+| **[syncup](https://github.com/vaibhavgupta443/syncup)** | Full-stack activity and social-matching platform: Spring Boot 3, MySQL, JWT, React. |
+| **[quorum](https://github.com/vaibhavgupta443/quorum)** | An agent that turns meeting transcripts into verified tasks and calendar events. The model records *what was said*; plain code replays it, so the result is deterministic and testable. Human approval step, evals. |
+| **[local-diffusion-4gb](https://github.com/vaibhavgupta443/local-diffusion-4gb)** | Notes, measurements and ComfyUI nodes from running current image models on a 4 GB GPU with 7.4 GB of RAM: quantisation, pruning, caching, two bug fixes. |
 
 </details>
 
@@ -73,53 +88,33 @@ I build **LLM agent systems** and make **large models run on small hardware**. W
 ## Highlights
 
 <details>
-<summary><b>Optimisation: a text encoder that was 29% dead weight</b></summary>
+<summary><b>ChangeLens: measured, and honest about it</b></summary>
 
 <br/>
 
-FLUX.2 Klein 9B reads only layers 9, 18 and 27 of its Qwen3-8B text encoder, so layers 27-35, the final norm and the LM head can be removed. The catch: the final norm must also be disabled, or the last tap comes out normalised and wrong. Details and the ComfyUI node are in [local-diffusion-4gb](https://github.com/vaibhavgupta443/local-diffusion-4gb/blob/main/docs/03-text-encoder.md).
+An evaluation set of labelled before/after cases showed 100% on the cases the engine was built for. A harder second set then exposed four real bugs (renumbered local names, unreadable files reported as deleted classes, moved-and-edited methods, field initialisers). They are fixed and covered by tests, and the evaluation page lists what the numbers still do not prove. See [docs/EVALUATION.md](https://github.com/vaibhavgupta443/changelens/blob/main/docs/EVALUATION.md).
 
 </details>
 
 <details>
-<summary><b>Debugging: edits that burned out, and a crash on every second job</b></summary>
+<summary><b>Engineering approach</b></summary>
 
 <br/>
 
-A tiled VAE decode compounded error across chained image edits; a whole-image decode fixed the drift and was faster (32 s to 21 s). Separately, leftover CUDA cache collided with dynamic VRAM and crashed every second job; a small pass-through node fixed it without reloading the model. Write-ups: [editing quality](https://github.com/vaibhavgupta443/local-diffusion-4gb/blob/main/docs/05-editing-quality.md) and [memory and offloading](https://github.com/vaibhavgupta443/local-diffusion-4gb/blob/main/docs/04-memory-and-offloading.md).
+- **Measure first.** On a memory-starved laptop the bottleneck turned out to be RAM, not the GPU ([write-up](https://github.com/vaibhavgupta443/local-diffusion-4gb/blob/main/docs/01-where-the-time-goes.md)).
+- **Facts from code, language from models.** In quorum and ChangeLens the model never decides what is true; code does.
+- **Say what is verified and what is not.** Limits are written next to the results.
 
 </details>
-
-<details>
-<summary><b>Agent design: the model proposes, code decides</b></summary>
-
-<br/>
-
-In both [quorum](https://github.com/vaibhavgupta443/quorum) and [clout](https://github.com/vaibhavgupta443/clout), model output is validated before it changes anything, risky actions wait for a person, and every action can be undone. See the [architecture notes](https://github.com/vaibhavgupta443/clout/blob/main/docs/ARCHITECTURE.md).
-
-</details>
-
----
-
-## How I work
-
-- **Measure first.** On a memory-starved laptop the bottleneck was RAM, not the GPU. I find that out before optimising.
-- **Models propose, code decides.** Output is validated, and risky actions wait for a person.
-- **Say what is verified and what is not.** My write-ups separate what I measured from third-party claims and guesses.
-- **Small steps with cheap checks**, so problems show up in seconds, not at the end.
 
 ---
 
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,spring,react,fastapi,sqlite,pytorch,nodejs,git,github&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,python,react,git,github,githubactions&perline=11" alt="Tech stack" />
 </p>
 
-<p align="center"><sub>Also: ComfyUI · llama.cpp · Claude Code · MCP</sub></p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta443&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+<p align="center"><sub>Also: Quarkus · JPA/Hibernate · JWT · JUnit · FastAPI · JavaParser · Node.js</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" alt="" width="100%" />
