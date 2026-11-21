@@ -32,24 +32,24 @@ I am a Java developer. I build backend services with **Spring Boot** (REST, JPA,
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vaibhavgupta443/changelens">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=changelens&theme=tokyonight&hide_border=true" alt="changelens" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=changelens&theme=tokyonight&hide_border=true&v=20261121" alt="changelens" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vaibhavgupta443/quorum">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=quorum&theme=tokyonight&hide_border=true" alt="quorum" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=quorum&theme=tokyonight&hide_border=true&v=20261121" alt="quorum" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/vaibhavgupta443/syncup">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=syncup&theme=tokyonight&hide_border=true" alt="syncup" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=syncup&theme=tokyonight&hide_border=true&v=20261121" alt="syncup" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/vaibhavgupta443/lowvram-diffusion-lab">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=lowvram-diffusion-lab&theme=tokyonight&hide_border=true" alt="lowvram-diffusion-lab" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavgupta443&repo=lowvram-diffusion-lab&theme=tokyonight&hide_border=true&v=20261121" alt="lowvram-diffusion-lab" />
       </a>
     </td>
   </tr>
